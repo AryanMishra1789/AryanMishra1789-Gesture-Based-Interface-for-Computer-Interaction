@@ -5,19 +5,6 @@ import mediapipe as mp
 # import os
 from math import hypot
 import screen_brightness_control as sbc
-# mphands = mp.solutions.hands
-# hands=mphands.Hands(static_image_mode=False,
-#                     model_complexity=1,
-#                     max_num_hands=1,
-#                     min_detection_confidence=0.75,
-#                     min_tracking_confidence=0.75)
-# Draw=mp.solutions.drawing_utils
-# cap=cv2.VideoCapture(0)
-# while True:
-#     _,frame=cap.read()
-#     frame=cv2.flip(frame,1)
-#     frameRGB=cv2.cvtColor(frame,cv2.COLOR_BGR2RGB)
-#     results=hands.process(frameRGB)
 
 def Brightness(frame,frameRGB,results,Draw,mphands,hands):##left hand
         landmarkList=[]
