@@ -72,4 +72,4 @@ Contributions are welcome! If you would like to contribute to this project, plea
 Thank you for checking out the Gesture Pilot project. I hope you find it useful and engaging!
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/licenses/MIT) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
