@@ -1,4 +1,3 @@
-````markdown name=README.md
 # Gesture Pilot: Gesture-Based Interface for Computer Interaction
 
 ## Table of Contents
@@ -74,4 +73,3 @@ Thank you for checking out the Gesture Pilot project. I hope you find it useful 
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/licenses/MIT) file for details.
-````
