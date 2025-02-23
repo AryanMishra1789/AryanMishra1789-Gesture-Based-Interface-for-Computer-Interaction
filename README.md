@@ -1,7 +1,5 @@
 # Gesture Pilot: Gesture-Based Interface for Computer Interaction
 
-Welcome to the Gesture-Based Interface for Computer Interaction repository! This project aims to develop a Python-based interface that allows users to interact with their computers using hand gestures.
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
@@ -28,8 +26,8 @@ The Gesture Pilot is designed to provide an intuitive and innovative way of inte
 ## Installation
 To get started with Gesture Pilot, clone this repository and install the necessary dependencies.
 ```bash
-git clone https://github.com/AryanMishra1789/AryanMishra1789-Gesture-Pilot-Gesture-Based-Interface-for-Computer-Interaction.git
-cd AryanMishra1789-Gesture-Pilot-Gesture-Based-Interface-for-Computer-Interaction
+git clone https://github.com/AryanMishra1789/Gesture-Based-Interface-for-Computer-Interaction.git
+cd Gesture-Based-Interface-for-Computer-Interaction
 pip install -r requirements.txt
 ```
 
