@@ -1,4 +1,5 @@
 # Gesture Pilot: Gesture-Based Interface for Computer Interaction
+Welcome to Gesture Pilot! This project aims to revolutionize the way you interact with your computer using intuitive hand gestures. Dive in to explore a new dimension of user interaction.
 
 ## Table of Contents
 - [Introduction](#introduction)
