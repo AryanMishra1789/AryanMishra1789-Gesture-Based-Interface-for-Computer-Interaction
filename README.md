@@ -6,10 +6,6 @@ Welcome to Gesture Pilot! This project aims to revolutionize the way you interac
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-  - [Brightness Control](#brightness-control)
-  - [Volume Control](#volume-control)
-  - [Mouse Control](#mouse-control)
-  - [Streamlit Interface](#streamlit-interface)
 - [Files Overview](#files-overview)
 - [Contributing](#contributing)
 - [License](#license)
@@ -50,19 +46,16 @@ To get started with Gesture Pilot, follow these steps:
 ## Usage
 Once the installation is complete, follow these steps to use Gesture Pilot:.
 
-### Streamlit Interface
+### Start the Gesture Recognition Interface
 Launch the Streamlit web interface to interact with Gesture Pilot via a user-friendly UI.
 ```bash
 streamlit run streamlit.py
 ```
-### Brightness Control
-**Gesture to use:** Move your Index Finger and Thumb of the Left Hand to increase or decrease brightness.
+**Brightness Control:** Move your Index Finger and Thumb of the Left Hand to increase or decrease brightness.
 
-### Volume Control
-**Gesture to use:** Move your Index Finger and Thumb of the Right Hand to increase or decrease volume.
+**Volume Control:** Move your Index Finger and Thumb of the Right Hand to increase or decrease volume.
 
-### Mouse Control
-**Gesture to use:** Move your Index Finger of any hand to control the mouse pointer movement.
+**Mouse Control:** Move your Index Finger of any hand to control the mouse pointer movement.
 
 ## Files Overview
 - `brightness_lefthand.py`: Script to control screen brightness using left-hand gestures.
