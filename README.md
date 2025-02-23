@@ -24,12 +24,27 @@ The Gesture Pilot is designed to provide an intuitive and innovative way of inte
 - **Streamlit Integration**: A web-based interface to activate and control the gesture recognition features.
 
 ## Installation
-To get started with Gesture Pilot, clone this repository and install the necessary dependencies.
-```bash
-git clone https://github.com/AryanMishra1789/Gesture-Based-Interface-for-Computer-Interaction.git
-cd Gesture-Based-Interface-for-Computer-Interaction
-pip install -r requirements.txt
-```
+To get started with Gesture Pilot, follow these steps:
+
+1. **Install Python 3.10**: Download and install Python 3.10 from the [official website](https://www.python.org/downloads/release/python-3100/).
+
+2. **Clone the repository**:
+   ```bash
+   git clone https://github.com/AryanMishra1789/Gesture-Based-Interface-for-Computer-Interaction.git
+   cd Gesture-Based-Interface-for-Computer-Interaction
+   ```
+
+3. **Create and activate a virtual environment** (optional but recommended):
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+   ```
+
+4. **Install the necessary dependencies**:
+   ```bash
+   pip install --upgrade pip setuptools
+   pip install -r requirements.txt
+   ```
 
 ## Usage
 Once the installation is complete, you can start the gesture-based interface by running the appropriate scripts.
