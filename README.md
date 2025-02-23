@@ -1,5 +1,7 @@
 # Gesture Pilot: Gesture-Based Interface for Computer Interaction
 
+Welcome to the Gesture-Based Interface for Computer Interaction repository! This project aims to develop a Python-based interface that allows users to interact with their computers using hand gestures.
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
