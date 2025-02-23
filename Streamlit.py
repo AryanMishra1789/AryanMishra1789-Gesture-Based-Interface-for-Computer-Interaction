@@ -201,7 +201,7 @@ with col3:
 st.markdown(
     """
     <div class="footer">
-        <p class="names">Created with ❤️ by Aryan Mishra and Abhinav Verma</p>
+        <p class="names">Created with ❤️ by Aryan Mishra & Abhinav Verma</p>
         <p class="tagline">"Innovating gestures, one motion at a time."</p>
     </div>
     """,
